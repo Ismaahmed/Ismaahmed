@@ -42,9 +42,13 @@ I enjoy transforming ideas into real-world web experiences through code.
 
 ## 🚀 Featured Projects
 
+- 🔗 [Portfolio Website](https://ismaahmed.github.io/personal-port/)
+- 🔗 [Coffee Website](https://ismaahmed.github.io/coffee_landing/)
 - 🔗 [Restaurant Landing Page](https://ismaahmed.github.io/Resturan_landding_page/)
 - 🔗 [Coffee Website](https://ismaahmed.github.io/coffee_page/)
-- 🔗 [Portfolio Website](https://github.com/Ismaahmed)
+- - 🔗 [oil Website](https://ismaahmed.github.io/oil/)
+- - 🔗 [Portfolio Website](https://ismaahmed.github.io/sushi/)
+
 
 ---
 
