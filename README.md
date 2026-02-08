@@ -40,7 +40,9 @@ I enjoy transforming ideas into real-world web experiences through code.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects (Built by Me)
+
+Below are my personally built and deployed frontend projects, hosted using GitHub Pages:
 
 - 🔗 [Portfolio Website](https://ismaahmed.github.io/personal-port/)
 - 🔗 [Coffee Website](https://ismaahmed.github.io/coffee_landing/)
