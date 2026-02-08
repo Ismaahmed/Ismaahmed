@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ismaahmed</h1>
-<h3 align="center">Aspiring Frontend Developer | Learning & Building</h3>
+<h3 align="center">Aspiring Frontend Developer | Learning, Building & Growing 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Frontend+Developer;HTML+CSS+JavaScript;Building+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Frontend+Developer;HTML+CSS+JavaScript;Building+Real+Projects;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="./IsmaAh.png" width="260"  />
+  <img src="./IsmaAh.png" width="260" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-I am a passionate and motivated **Frontend Developer** focused on learning and building clean, responsive, and user-friendly websites.  
-I enjoy transforming ideas into real-world web experiences through code.
+I am a passionate and motivated **Frontend Developer** focused on building clean, responsive, and user-friendly websites.  
+I enjoy turning ideas into real-world web experiences using modern frontend technologies.
 
 - 🌱 Currently learning **HTML, CSS, and JavaScript**
-- 💻 Focused on **Frontend Development**
-- 🎯 Goal: Become a professional Frontend Developer
+- 💻 Specializing in **Frontend Development**
+- 🎯 Goal: Become a **Professional Frontend Developer**
 - 🚀 Actively building projects and improving my GitHub profile
+- 📈 Constantly improving code quality and design skills
 
 ---
 
@@ -31,26 +32,37 @@ I enjoy transforming ideas into real-world web experiences through code.
 
 ---
 
-## 🚧 What I'm Working On
+## 🚧 What I'm Currently Working On
 
-- 📌 Responsive landing pages
-- 📌 Frontend mini-projects
-- 📌 UI/UX improvement
-- 📌 Strengthening JavaScript fundamentals
+- 📌 Responsive and modern landing pages  
+- 📌 Frontend mini-projects  
+- 📌 UI/UX design improvements  
+- 📌 Strengthening JavaScript fundamentals  
+- 📌 Writing clean, reusable, and maintainable code  
 
 ---
 
-## 🚀 Live Projects (Built by Me)
+## 🚀 Live Projects (Built & Deployed by Me)
 
-Below are my personally built and deployed frontend projects, hosted using GitHub Pages:
+Below are my **personally built frontend projects**, deployed using **GitHub Pages**:
 
-- 🔗 [Portfolio Website](https://ismaahmed.github.io/personal-port/)
-- 🔗 [Coffee Website](https://ismaahmed.github.io/coffee_landing/)
-- 🔗 [Restaurant Landing Page](https://ismaahmed.github.io/Resturan_landding_page/)
-- 🔗 [Coffee Website](https://ismaahmed.github.io/coffee_page/)
-- - 🔗 [oil Website](https://ismaahmed.github.io/oil/)
-- - 🔗 [Portfolio Website](https://ismaahmed.github.io/sushi/)
+- 🔗 **Portfolio Website**  
+  https://ismaahmed.github.io/personal-port/
 
+- 🔗 **Coffee Landing Page**  
+  https://ismaahmed.github.io/coffee_landing/
+
+- 🔗 **Coffee Website (UI Focused)**  
+  https://ismaahmed.github.io/coffee_page/
+
+- 🔗 **Restaurant Landing Page**  
+  https://ismaahmed.github.io/Resturan_landding_page/
+
+- 🔗 **Oil Business Website**  
+  https://ismaahmed.github.io/oil/
+
+- 🔗 **Sushi Website**  
+  https://ismaahmed.github.io/sushi/
 
 ---
 
@@ -73,5 +85,6 @@ Below are my personally built and deployed frontend projects, hosted using GitHu
 ---
 
 <p align="center">
-  ⭐️ Thank you for visiting my GitHub profile!
+  ⭐️ Thank you for visiting my GitHub profile!  
+  Let's build something amazing together 🚀
 </p>
