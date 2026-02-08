@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./IsmaAh.png" width="260" />
+  <img src="./Ismagit.jpeg" width="260" />
 </p>
 
 ---
