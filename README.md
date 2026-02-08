@@ -1,41 +1,71 @@
-<h1 align="center"> Hello! I'm Ismaahmed 👋 </h1>
-
+<h1 align="center">Hi 👋, I'm Ismaahmed</h1>
+<h3 align="center">Aspiring Frontend Developer | Learning & Building</h3>
 
 <p align="center">
-  <img src="./Isma Ahmed.jpeg" alt="Isma Profile" width="280px" style="border-radius: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Frontend+Developer;HTML+CSS+JavaScript;Building+Projects;Always+Learning+🚀" />
 </p>
-<h2 align="center">
 
-### ✨ Aspiring Frontend Developer | Learning & Building
-I am a passionate learner currently diving deep into the world of **Frontend Development**. I love turning ideas into visual reality through code.
-
-</h2>
+<p align="center">
+  <img src="./Isma Ahmed.jpeg" width="260" />
+</p>
 
 ---
 
-### 🚀 What I'm working on
-- 📚 Currently learning **HTML5, CSS3, and JavaScript**.
-- 🛠️ Building my first portfolio projects.
-- 🔥 Improving my GitHub profile with new **Achievements**.
+## ✨ About Me
 
-### 🛠️ My Toolbox (Learning)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+I am a passionate and motivated **Frontend Developer** focused on learning and building clean, responsive, and user-friendly websites.  
+I enjoy transforming ideas into real-world web experiences through code.
 
-### 📈 GitHub Stats & Progress
-- 🏆 Recent Achievement: **Pull Shark**
-- 🟢 Daily Contributions: Working on making my graph greener!
+- 🌱 Currently learning **HTML, CSS, and JavaScript**
+- 💻 Focused on **Frontend Development**
+- 🎯 Goal: Become a professional Frontend Developer
+- 🚀 Actively building projects and improving my GitHub profile
 
 ---
 
-### 📱 Connect with me
-- 📧 **Email:** [muhiza53@gmail.com]
-- 💬 **phone:** [+252615000804]
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🚧 What I'm Working On
+
+- 📌 Responsive landing pages
+- 📌 Frontend mini-projects
+- 📌 UI/UX improvement
+- 📌 Strengthening JavaScript fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 [Restaurant Landing Page](https://ismaahmed.github.io/Resturan_landding_page/)
+- 🔗 [Coffee Website](https://ismaahmed.github.io/coffee_page/)
+- 🔗 [Portfolio Website](https://github.com/Ismaahmed)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismaahmed&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismaahmed&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/Ismaahmed
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismaahmed&show_icons=true&theme=tokyonight" alt="Isma's Stats" />
+  ⭐️ Thank you for visiting my GitHub profile!
 </p>
