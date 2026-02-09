@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Frontend Developer | Learning, Building & Growing 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Frontend+Developer;HTML+CSS+JavaScript;Building+Real+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Frontend+Developer;HTML+CSS+JavaScript;Tailwind+CSS;Building+Real+Projects;Always+Learning+🚀" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 I am a passionate and motivated **Frontend Developer** focused on building clean, responsive, and user-friendly websites.  
 I enjoy turning ideas into real-world web experiences using modern frontend technologies.
 
-- 🌱 Currently learning **HTML, CSS, and JavaScript**
+- 🌱 Currently learning **HTML, CSS, JavaScript & Tailwind CSS**
 - 💻 Specializing in **Frontend Development**
 - 🎯 Goal: Become a **Professional Frontend Developer**
 - 🚀 Actively building projects and improving my GitHub profile
@@ -27,7 +27,7 @@ I enjoy turning ideas into real-world web experiences using modern frontend tech
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
 </p>
 
 ---
