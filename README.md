@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismaahmed</h1>
+<h1 align="center">Hi 👋, I'm Ismahan ahmed</h1>
 <h3 align="center">Aspiring Frontend Developer | Learning, Building & Growing 🚀</h3>
 
 <p align="center">
@@ -51,9 +51,10 @@ Below are my **personally built frontend projects**, deployed using **GitHub Pag
 
 - 🔗 **Coffee Landing Page**  
   https://ismaahmed.github.io/coffee_landing/
+    https://ismaahmed.github.io/coffee_page/
 
-- 🔗 **Coffee Website (UI Focused)**  
-  https://ismaahmed.github.io/coffee_page/
+ 
+
 
 - 🔗 **Restaurant Landing Page**  
   https://ismaahmed.github.io/Resturan_landding_page/
